@@ -1,1 +1,1 @@
-# Technolabs-softwares-internship---Data-Science
+# Technocolabs-softwares-internship---Data-Science
